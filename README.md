@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Google Drive</title>
+    
 </head>
 <body>
     <h1>My Google Drive Files</h1>
